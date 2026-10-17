@@ -1,0 +1,1392 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">664041</controlfield>
+    <controlfield tag="003">UKM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UKM</subfield><subfield code="c">UKM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">HD30.28.G363 2024 )</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Gamble, John (John E.) [author.]</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Essentials of strategic management : the quest for competitive advantage / by John E. Gamble, Arthur A. Thompson, Jr, Margaret A. Peteraf.</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="b">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="o">HD30.28.G363 2024 )</subfield><subfield code="p">00002273255</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">ukm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">665030</controlfield>
+    <controlfield tag="003">UKM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UKM</subfield><subfield code="c">UKM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">QS604.S126L 2024 9HUKMPRA )</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Sadler, T.W. (Thomas W.) [author.]</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Langman&apos;s medical embryology / T.W. Sadler.</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN PRAKLINIKAL</subfield><subfield code="b">PERPUSTAKAAN PRAKLINIKAL</subfield><subfield code="o">QS604.S126L 2024 9HUKMPRA )</subfield><subfield code="p">00002247317</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">ukm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">665032</controlfield>
+    <controlfield tag="003">UKM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UKM</subfield><subfield code="c">UKM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">WN200.H567L 2024 9HUKMPRA )</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Herring, William [author.]</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Learning radiology : recognizing the basics / William Herring.</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN PRAKLINIKAL</subfield><subfield code="b">PERPUSTAKAAN PRAKLINIKAL</subfield><subfield code="o">WN200.H567L 2024 9HUKMPRA )</subfield><subfield code="p">00002247313</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">ukm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">665933</controlfield>
+    <controlfield tag="003">UKM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UKM</subfield><subfield code="c">UKM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">WB200.M165 2024 9HUKM )</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Dover, Anna R [editor.]</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Macleod&apos;s clinical examination / edited by Anna R. Dover, J. Alastair Innes, Karen Fairhurst.</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN HOSPITAL CANSELOR TUANKU MUHRIZ</subfield><subfield code="b">PERPUSTAKAAN HOSPITAL CANSELOR TUANKU MUHRIZ</subfield><subfield code="o">WB200.M165 2024 9HUKM )</subfield><subfield code="p">00002265893</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN HOSPITAL CANSELOR TUANKU MUHRIZ</subfield><subfield code="b">PERPUSTAKAAN HOSPITAL CANSELOR TUANKU MUHRIZ</subfield><subfield code="o">WB200.M165 2024 9HUKMPRA )</subfield><subfield code="p">00002247356</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">ukm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">666300</controlfield>
+    <controlfield tag="003">UKM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UKM</subfield><subfield code="c">UKM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">WB39.J38p 2024 9HUKM )</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Jarvis, Carolyn [author.]</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Pocket companion for physical examination &amp;amp; health assessment / Carolyn Jarvis, Ann Eckhardt.</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN HOSPITAL CANSELOR TUANKU MUHRIZ</subfield><subfield code="b">PERPUSTAKAAN HOSPITAL CANSELOR TUANKU MUHRIZ</subfield><subfield code="o">WB39.J38p 2024 9HUKM )</subfield><subfield code="p">00002265920</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN PRAKLINIKAL</subfield><subfield code="b">PERPUSTAKAAN PRAKLINIKAL</subfield><subfield code="o">WB39.J38p 2024 9HUKMPRA )</subfield><subfield code="p">00002247368</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">ukm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">666315</controlfield>
+    <controlfield tag="003">UKM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UKM</subfield><subfield code="c">UKM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">QW4.M981m 2024 9HUKMPRA )</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Murray, Patrick R [author.]</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Murray&apos;s basic medical microbiology : foundations and clinical cases / Patrick R. Murray.</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN PRAKLINIKAL</subfield><subfield code="b">PERPUSTAKAAN PRAKLINIKAL</subfield><subfield code="o">QW4.M981m 2024 9HUKMPRA )</subfield><subfield code="p">00002283260</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN PRAKLINIKAL</subfield><subfield code="b">PERPUSTAKAAN PRAKLINIKAL</subfield><subfield code="o">QW4.M981m 2024 9HUKMPRA )</subfield><subfield code="p">00002247374</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">ukm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">666464</controlfield>
+    <controlfield tag="003">UKM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UKM</subfield><subfield code="c">UKM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">WY100.1.W919u 2024 9HUKM )</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Workman, M. Linda [author.]</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Understanding pharmacology : essentials for medication safety / M. Linda Workman, Linda A. LaCharity.</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN HOSPITAL CANSELOR TUANKU MUHRIZ</subfield><subfield code="b">PERPUSTAKAAN HOSPITAL CANSELOR TUANKU MUHRIZ</subfield><subfield code="o">WY100.1.W919u 2024 9HUKM )</subfield><subfield code="p">00002265775</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN PRAKLINIKAL</subfield><subfield code="b">PERPUSTAKAAN PRAKLINIKAL</subfield><subfield code="o">WY100.1.W919u 2024 9HUKMPRA )</subfield><subfield code="p">00002283100</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">ukm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">666667</controlfield>
+    <controlfield tag="003">UKM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UKM</subfield><subfield code="c">UKM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">WG18.2.U54 2024 9HUKM )</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Al-Hadithi, Ali B.A.K [editor.]</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">The unofficial guide to ECGs / edited by Ali B.A.K. Al-Hadithi, Alex R. Hobson, Senthil Kirubakaran.</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN HOSPITAL CANSELOR TUANKU MUHRIZ</subfield><subfield code="b">PERPUSTAKAAN HOSPITAL CANSELOR TUANKU MUHRIZ</subfield><subfield code="o">WG18.2.U54 2024 9HUKM )</subfield><subfield code="p">00002284107</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN PRAKLINIKAL</subfield><subfield code="b">PERPUSTAKAAN PRAKLINIKAL</subfield><subfield code="o">WG18.2.U54 2024 9HUKMPRA )</subfield><subfield code="p">00002247384</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">ukm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">666668</controlfield>
+    <controlfield tag="003">UKM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UKM</subfield><subfield code="c">UKM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">WM17.K89a 2024 9HUKMPRA )</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Kryger, Meir H [author.]</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Atlas of clinical sleep medicine / Meir H. Kryger, Alon Y. Avidan, Cathy Goldstein.</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN PRAKLINIKAL</subfield><subfield code="b">PERPUSTAKAAN PRAKLINIKAL</subfield><subfield code="o">WM17.K89a 2024 9HUKMPRA )</subfield><subfield code="p">00002247383</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">ukm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">666933</controlfield>
+    <controlfield tag="003">UKM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UKM</subfield><subfield code="c">UKM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">QU375.P771c 2024 9HUKM )</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Pollard, Thomas D [author.]</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Cell biology / Thomas D. Pollard [and three others].</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN HOSPITAL CANSELOR TUANKU MUHRIZ</subfield><subfield code="b">PERPUSTAKAAN HOSPITAL CANSELOR TUANKU MUHRIZ</subfield><subfield code="o">QU375.P771c 2024 9HUKM )</subfield><subfield code="p">00002265890</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN PRAKLINIKAL</subfield><subfield code="b">PERPUSTAKAAN PRAKLINIKAL</subfield><subfield code="o">QU375.P771c 2024 9HUKMPRA )</subfield><subfield code="p">00002247415</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">ukm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">666943</controlfield>
+    <controlfield tag="003">UKM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UKM</subfield><subfield code="c">UKM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">QW4.C524t 2024 9HUKMPRA )</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Chess, Barry [author.]</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Talaro&apos;s foundations in microbiology / Barry Chess.</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN PRAKLINIKAL</subfield><subfield code="b">PERPUSTAKAAN PRAKLINIKAL</subfield><subfield code="o">QW4.C524t 2024 9HUKMPRA )</subfield><subfield code="p">00002247400</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">ukm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">666944</controlfield>
+    <controlfield tag="003">UKM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UKM</subfield><subfield code="c">UKM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">QW4.C874m 2024 9HUKMPRA )</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Cowan, Marjorie Kelly [author.]</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Microbiology : a systems approach / Marjorie Kelly Cowan, Heidi Smith.</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN PRAKLINIKAL</subfield><subfield code="b">PERPUSTAKAAN PRAKLINIKAL</subfield><subfield code="o">QW4.C874m 2024 9HUKMPRA )</subfield><subfield code="p">00002247399</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">ukm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">666945</controlfield>
+    <controlfield tag="003">UKM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UKM</subfield><subfield code="c">UKM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">QW504.A122b 2023 9HUKM )</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Abbas, Abul K [author.]</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Basic immunology : functions and disorders of the immune system / Abul K. Abbas, Andrew H. Lichtman, Shiv Pillai.</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN HOSPITAL CANSELOR TUANKU MUHRIZ</subfield><subfield code="b">PERPUSTAKAAN HOSPITAL CANSELOR TUANKU MUHRIZ</subfield><subfield code="o">QW504.A122b 2023 9HUKM )</subfield><subfield code="p">00002265891</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN PRAKLINIKAL</subfield><subfield code="b">PERPUSTAKAAN PRAKLINIKAL</subfield><subfield code="o">QW504.A122b 2023 9HUKMPRA )</subfield><subfield code="p">00002283094</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">ukm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">666946</controlfield>
+    <controlfield tag="003">UKM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UKM</subfield><subfield code="c">UKM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">W18.H259t 2023 9HUKM )</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Harden, Jeni [author.]</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">The changing role of medical students / Jeni Harden, Ronald M. Harden.</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN HOSPITAL CANSELOR TUANKU MUHRIZ</subfield><subfield code="b">PERPUSTAKAAN HOSPITAL CANSELOR TUANKU MUHRIZ</subfield><subfield code="o">W18.H259t 2023 9HUKM )</subfield><subfield code="p">00002265892</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN PRAKLINIKAL</subfield><subfield code="b">PERPUSTAKAAN PRAKLINIKAL</subfield><subfield code="o">W18.H259t 2023 9HUKMPRA )</subfield><subfield code="p">00002283107</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">ukm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">667149</controlfield>
+    <controlfield tag="003">UKM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UKM</subfield><subfield code="c">UKM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">QT104.B525 2024 9HUKM )</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Koeppen, Bruce M [editor.]</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Berne &amp;amp; Levy physiology / editors, Bruce M. Koeppen, Bruce A. Stanton.</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN HOSPITAL CANSELOR TUANKU MUHRIZ</subfield><subfield code="b">PERPUSTAKAAN HOSPITAL CANSELOR TUANKU MUHRIZ</subfield><subfield code="o">QT104.B525 2024 9HUKM )</subfield><subfield code="p">00002265933</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN PRAKLINIKAL</subfield><subfield code="b">PERPUSTAKAAN PRAKLINIKAL</subfield><subfield code="o">QT104.B525 2024 9HUKMPRA )</subfield><subfield code="p">00002247406</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">ukm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">668058</controlfield>
+    <controlfield tag="003">UKM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UKM</subfield><subfield code="c">UKM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">WE500.R329j 2024 9 )</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Reese, Nancy Berryman [author.]</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Joint range of motion and muscle length testing / Nancy Berryman Reese, William D. Bandy.</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN DR ABDUL LATIFF</subfield><subfield code="b">PERPUSTAKAAN DR ABDUL LATIFF</subfield><subfield code="o">WE500.R329j 2024 9 )</subfield><subfield code="p">00002251042</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">ukm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">668065</controlfield>
+    <controlfield tag="003">UKM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UKM</subfield><subfield code="c">UKM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">WB330.A652 2024 9 )</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Zeind, Caroline S [editor.]</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Applied therapeutics : the clinical use of drugs / [edited by] Caroline S. Zeind, Michael G. Carvalho, Judy W. Cheng, Kathy Zaiken, Trisha LaPointe.</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN DR ABDUL LATIFF</subfield><subfield code="b">PERPUSTAKAAN DR ABDUL LATIFF</subfield><subfield code="o">WB330.A652 2024 9 )</subfield><subfield code="p">00002251050</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN DR ABDUL LATIFF</subfield><subfield code="b">PERPUSTAKAAN DR ABDUL LATIFF</subfield><subfield code="o">WB330.A652 2024 9 )</subfield><subfield code="p">00002251051</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">ukm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">668070</controlfield>
+    <controlfield tag="003">UKM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UKM</subfield><subfield code="c">UKM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">WU29.S828d 2024 9 )</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Treatment planning in dentistry</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Diagnosis and treatment planning in dentistry / Stephen J. Stefanac, Samuel P. Nesbit.</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN DR ABDUL LATIFF</subfield><subfield code="b">PERPUSTAKAAN DR ABDUL LATIFF</subfield><subfield code="o">WU29.S828d 2024 9 )</subfield><subfield code="p">00002251046</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">ukm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">668151</controlfield>
+    <controlfield tag="003">UKM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UKM</subfield><subfield code="c">UKM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">RC1236.R47M337 )</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Martin, Harvey, 1989- [author.]</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Breathe, focus, excel : exercises, techniques, and strategies for optimal athletic performance / Harvey Martin ; foreword by Gabe Kapler.</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="b">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="o">RC1236.R47M337 )</subfield><subfield code="p">00002264662</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">ukm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">668493</controlfield>
+    <controlfield tag="003">UKM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UKM</subfield><subfield code="c">UKM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">HD9940.A2 )</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Charter, Martin [editor.]</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Accelerating sustainability in fashion, clothing and textiles / edited by Martin Charter, Bernice Pan and Sandy Black.</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="b">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="o">HD9940.A2 )</subfield><subfield code="p">00002279331</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">ukm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">668494</controlfield>
+    <controlfield tag="003">UKM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UKM</subfield><subfield code="c">UKM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Charter, Martin [editor.]</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Accelerating sustainability in fashion, clothing and textiles / edited by Martin Charter, Bernice Pan and Sandy Black.</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">Perpustakaan Tun Seri Lanang (Bangi)</subfield><subfield code="b">Perpustakaan Tun Seri Lanang (Bangi)</subfield><subfield code="o">LCC</subfield><subfield code="p">UKM-668494</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">ukm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">668605</controlfield>
+    <controlfield tag="003">UKM</controlfield>
+    <controlfield tag="008">261016s2024    my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UKM</subfield><subfield code="c">UKM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">TD427.M35. E363 2024 tesis )</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Eda Izanie Ahmad Kamil [author.]</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Pengetahuan, sikap dan amalan guru kelas pencinta alam berkaitan Marine Debris/ Eda Izanie binti Ahmad Kamil.</subfield></datafield>
+    <datafield tag="264" ind1=" " ind2="1"><subfield code="b">©2024</subfield><subfield code="c">2024</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="b">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="o">TD427.M35. E363 2024 tesis )</subfield><subfield code="p">00002277329</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">ukm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">668674</controlfield>
+    <controlfield tag="003">UKM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UKM</subfield><subfield code="c">UKM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">QS4.D762g 2024 9HUKM )</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Drake, Richard L [author.]</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Gray&apos;s anatomy for students / Richard L. Drake, A. Wayne Vogl, Adam W.M. Mitchell.</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN HOSPITAL CANSELOR TUANKU MUHRIZ</subfield><subfield code="b">PERPUSTAKAAN HOSPITAL CANSELOR TUANKU MUHRIZ</subfield><subfield code="o">QS4.D762g 2024 9HUKM )</subfield><subfield code="p">00002284108</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN PRAKLINIKAL</subfield><subfield code="b">PERPUSTAKAAN PRAKLINIKAL</subfield><subfield code="o">QS4.D762g 2024 9HUKMPRA )</subfield><subfield code="p">00002283071</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">ukm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">668684</controlfield>
+    <controlfield tag="003">UKM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UKM</subfield><subfield code="c">UKM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">C39.32KQB .S5455 2024 2 )</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Sheila Ramalingam [author.]</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Environmental law in Malaysia / Sheila Ramalingam.</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="b">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="o">C39.32KQB .S5455 2024 2 )</subfield><subfield code="p">00002282314</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">ukm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">668688</controlfield>
+    <controlfield tag="003">UKM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UKM</subfield><subfield code="c">UKM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">C31.38KQB .T36 2024 2 )</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Tan, Kee Heng [author.]</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Civil and criminal appeals in Malaysia / Tan Kee Heng.</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN UNDANG-UNDANG</subfield><subfield code="b">PERPUSTAKAAN UNDANG-UNDANG</subfield><subfield code="o">C31.38KQB .T36 2024 2 )</subfield><subfield code="p">00002282310</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">ukm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">668752</controlfield>
+    <controlfield tag="003">UKM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UKM</subfield><subfield code="c">UKM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">QS517.Y681w 2024 9HUKM )</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">O&apos;Dowd, Geraldine [author.]</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Wheater&apos;s functional histology : a text and colour atlas / Geraldine O&apos;Dowd, Sarah Bell, Sylvia Wright .</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="b">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="o">QS517.Y681w 2024 9HUKM )</subfield><subfield code="p">00002284119</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN PRAKLINIKAL</subfield><subfield code="b">PERPUSTAKAAN PRAKLINIKAL</subfield><subfield code="o">QS517.Y681w 2024 9HUKMPRA )</subfield><subfield code="p">00002283087</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">ukm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">668753</controlfield>
+    <controlfield tag="003">UKM</controlfield>
+    <controlfield tag="008">261016s2024    my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UKM</subfield><subfield code="c">UKM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">TD345.N837 2024 tesis )</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Nurul Waheeda Haji Saad [author.]</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Pengetahuan, sikap dan nilai terhadap literasi air dalam kalangan pelajar sekolah menengah/ Nurul Waheeda binti Haji Saad.</subfield></datafield>
+    <datafield tag="264" ind1=" " ind2="1"><subfield code="b">©2024</subfield><subfield code="c">2024</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="b">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="o">TD345.N837 2024 tesis )</subfield><subfield code="p">00002277305</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">ukm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">668755</controlfield>
+    <controlfield tag="003">UKM</controlfield>
+    <controlfield tag="008">261016s2024    my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UKM</subfield><subfield code="c">UKM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">LC5800.M834 2024 tesis )</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Muhammad Irfan Ibrahim [author.]</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Proses interaksi dalam pembelajaran dan pengajaran program open &amp;amp; distance learning dari perspektif teori aktiviti/ Muhammad Irfan bin Ibrahim.</subfield></datafield>
+    <datafield tag="264" ind1=" " ind2="1"><subfield code="b">©2024</subfield><subfield code="c">2024</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="b">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="o">LC5800.M834 2024 tesis )</subfield><subfield code="p">00002277303</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">ukm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">668758</controlfield>
+    <controlfield tag="003">UKM</controlfield>
+    <controlfield tag="008">261016s2024    my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UKM</subfield><subfield code="c">UKM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">LB1585.A995 2024 tesis )</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Azizah Osman [author.]</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Keberkesanan khazanah pengetahuan melalui modul Cerendeq sains terhadap peningkatan pemahaman konsep eletrik dalam kalangan murid orang asli/ Azizah binti Osman.</subfield></datafield>
+    <datafield tag="264" ind1=" " ind2="1"><subfield code="b">©2024</subfield><subfield code="c">2024</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="b">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="o">LB1585.A995 2024 tesis )</subfield><subfield code="p">00002277300</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">ukm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">668828</controlfield>
+    <controlfield tag="003">UKM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UKM</subfield><subfield code="c">UKM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">QU34.M978c 2024 9HUKM )</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Murphy, Michael [author.]</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Clinical biochemistry : an illustrated colour text / Michael Murphy, Rajeev Srivastava, Kevin Deans.</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN HOSPITAL CANSELOR TUANKU MUHRIZ</subfield><subfield code="b">PERPUSTAKAAN HOSPITAL CANSELOR TUANKU MUHRIZ</subfield><subfield code="o">QU34.M978c 2024 9HUKM )</subfield><subfield code="p">00002284528</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN PRAKLINIKAL</subfield><subfield code="b">PERPUSTAKAAN PRAKLINIKAL</subfield><subfield code="o">QU34.M978c 2024 9HUKMPRA )</subfield><subfield code="p">00002283072</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">ukm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">668831</controlfield>
+    <controlfield tag="003">UKM</controlfield>
+    <controlfield tag="008">261016s2024    my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UKM</subfield><subfield code="c">UKM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">TK7871.15.M48. A357 2024 tesis )</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Afsar, Md. Salah Uddin [author.]</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Development of miniaturized metamaterial absorbers for electromagnetic radiation absorption in the microwave and near infrared regions/ Md. Salah Uddin Afasar.</subfield></datafield>
+    <datafield tag="264" ind1=" " ind2="1"><subfield code="b">©2024</subfield><subfield code="c">2024</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="b">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="o">TK7871.15.M48. A357 2024 tesis )</subfield><subfield code="p">00002277286</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">ukm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">668832</controlfield>
+    <controlfield tag="003">UKM</controlfield>
+    <controlfield tag="008">261016s2024    my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UKM</subfield><subfield code="c">UKM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">RS201.N35. M395 2024 tesis )</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Md. Ismail Hossain [author.]</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Ferrite based nanoparticiles synthesized and characterized flexible microwave substrate for multiband wireless applications/ Md. Ismail Hossain.</subfield></datafield>
+    <datafield tag="264" ind1=" " ind2="1"><subfield code="b">©2024</subfield><subfield code="c">2024</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="b">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="o">RS201.N35. M395 2024 tesis )</subfield><subfield code="p">00002277285</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">ukm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">668863</controlfield>
+    <controlfield tag="003">UKM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UKM</subfield><subfield code="c">UKM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">WE17.R165i 2024 9HUKMPRA )</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Raman, Siva P [author.]</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Imaging anatomy : Chest, abdomen, pelvis / Siva P. Raman, [and seven others].</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN PRAKLINIKAL</subfield><subfield code="b">PERPUSTAKAAN PRAKLINIKAL</subfield><subfield code="o">WE17.R165i 2024 9HUKMPRA )</subfield><subfield code="p">00002283075</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">ukm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">668904</controlfield>
+    <controlfield tag="003">UKM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UKM</subfield><subfield code="c">UKM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">BF698.3.Z45i 2024 9 )</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Zein Mukhlis [author.]</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Introvert juga mampu berjaya / Zein Mukhlis; penterjemah, Aiyen Segovia.</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN DR ABDUL LATIFF</subfield><subfield code="b">PERPUSTAKAAN DR ABDUL LATIFF</subfield><subfield code="o">BF698.3.Z45i 2024 9 )</subfield><subfield code="p">00002251083</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">ukm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">668908</controlfield>
+    <controlfield tag="003">UKM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UKM</subfield><subfield code="c">UKM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">HF5415.1255.S982a 2024 9 )</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Syed Gaddafi [author.]</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">The art of marketing / Syef Gaddafi.</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN DR ABDUL LATIFF</subfield><subfield code="b">PERPUSTAKAAN DR ABDUL LATIFF</subfield><subfield code="o">HF5415.1255.S982a 2024 9 )</subfield><subfield code="p">00002251084</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">ukm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">668912</controlfield>
+    <controlfield tag="003">UKM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UKM</subfield><subfield code="c">UKM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">HM742.K56a 2024 9 )</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Kionz C [author.]</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">The art of becoming a content creator : panduan mudah dan berkesan bagi menjadikan content creator sebagai kerjaya / Kionz Chan.</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN DR ABDUL LATIFF</subfield><subfield code="b">PERPUSTAKAAN DR ABDUL LATIFF</subfield><subfield code="o">HM742.K56a 2024 9 )</subfield><subfield code="p">00002251085</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="b">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="o">HM742 .K56 )</subfield><subfield code="p">00002279310</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">ukm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">668922</controlfield>
+    <controlfield tag="003">UKM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UKM</subfield><subfield code="c">UKM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">WI522.R111r 2024 9 )</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Raja Affendi Raja Ali [author.]</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Rawatan terkini dan hala tuju penyelidikan berimpak tinggi penyakit radang usus di Malaysia / Raja Affendi Raja Ali.</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN DR ABDUL LATIFF</subfield><subfield code="b">PERPUSTAKAAN DR ABDUL LATIFF</subfield><subfield code="o">WI522.R111r 2024 9 )</subfield><subfield code="p">00002251086</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN HOSPITAL CANSELOR TUANKU MUHRIZ</subfield><subfield code="b">PERPUSTAKAAN HOSPITAL CANSELOR TUANKU MUHRIZ</subfield><subfield code="o">WI522.R111r 2024 9HUKM )</subfield><subfield code="p">00002284672</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN HOSPITAL CANSELOR TUANKU MUHRIZ</subfield><subfield code="b">PERPUSTAKAAN HOSPITAL CANSELOR TUANKU MUHRIZ</subfield><subfield code="o">WI522.R111r 2024 9HUKM )</subfield><subfield code="p">00002284671</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN HOSPITAL CANSELOR TUANKU MUHRIZ</subfield><subfield code="b">PERPUSTAKAAN HOSPITAL CANSELOR TUANKU MUHRIZ</subfield><subfield code="o">WI522.R111r 2024 9HUKM )</subfield><subfield code="p">00002284670</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN PRAKLINIKAL</subfield><subfield code="b">PERPUSTAKAAN PRAKLINIKAL</subfield><subfield code="o">WI522.R111r 2024 9HUKMPRA )</subfield><subfield code="p">00002283078</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="b">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="o">RA645.I53R335 )</subfield><subfield code="p">00002264747</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="b">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="o">RA645.I53.R335 arkib )</subfield><subfield code="p">00002282056</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="b">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="o">RA645.I53R335 )</subfield><subfield code="p">00002279787</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="b">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="o">RA645.I53.R335 arkib )</subfield><subfield code="p">00002281864</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">ukm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">668959</controlfield>
+    <controlfield tag="003">UKM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UKM</subfield><subfield code="c">UKM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">BJ1533.I58M837 )</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Muhammad Shamshinor Abdul Azzis [author.]</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Integriti dan antirasuah / Muhammad Shamshinor Abdul Azzis, Norhadi Rohani.</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="b">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="o">BJ1533.I58M837 )</subfield><subfield code="p">00002279159</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">ukm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">668980</controlfield>
+    <controlfield tag="003">UKM</controlfield>
+    <controlfield tag="008">261016s2024    my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UKM</subfield><subfield code="c">UKM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">LB1048.5.Z483 2024 tesis )</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Zhang, Wenjin [author.]</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">The model of parental investment for children education in rural China/ Zhang Wenjin.</subfield></datafield>
+    <datafield tag="264" ind1=" " ind2="1"><subfield code="b">©2024</subfield><subfield code="c">2024</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="b">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="o">LB1048.5.Z483 2024 tesis )</subfield><subfield code="p">00002277269</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">ukm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">668981</controlfield>
+    <controlfield tag="003">UKM</controlfield>
+    <controlfield tag="008">261016s2024    my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UKM</subfield><subfield code="c">UKM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">LB1707.N636 2024 tesis )</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Noor Syafiqah Abdullah [author.]</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Pengetahuan, sikap dan tingkah laku guru sains terhadap perubahan iklim/ Noor Syafiqah binti Abdullah.</subfield></datafield>
+    <datafield tag="264" ind1=" " ind2="1"><subfield code="b">©2024</subfield><subfield code="c">2024</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="b">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="o">LB1707.N636 2024 tesis )</subfield><subfield code="p">00002277268</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">ukm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">668984</controlfield>
+    <controlfield tag="003">UKM</controlfield>
+    <controlfield tag="008">261016s2024    my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UKM</subfield><subfield code="c">UKM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">LB1025.3.R339 2024 tesis )</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Razemah Kamaruddin [author.]</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Kompetensi guru terhadap pencapaian mata pelajaran perniagaan tingkatan 4/ Razemah binti Kamaruddin.</subfield></datafield>
+    <datafield tag="264" ind1=" " ind2="1"><subfield code="b">©2024</subfield><subfield code="c">2024</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="b">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="o">LB1025.3.R339 2024 tesis )</subfield><subfield code="p">00002277267</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">ukm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">668985</controlfield>
+    <controlfield tag="003">UKM</controlfield>
+    <controlfield tag="008">261016s2024    my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UKM</subfield><subfield code="c">UKM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">GE70.H337 2024 tesis )</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Hassan Nazarudin [author.]</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Keberkesanan kit permainan dalam meningkatkan pengetahuan, kesedaran alam sekitar dan kemahiran insaniah pelajar Hassan bin Nazarudin.</subfield></datafield>
+    <datafield tag="264" ind1=" " ind2="1"><subfield code="b">©2024</subfield><subfield code="c">2024</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="b">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="o">GE70.H337 2024 tesis )</subfield><subfield code="p">00002277266</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">ukm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">668986</controlfield>
+    <controlfield tag="003">UKM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UKM</subfield><subfield code="c">UKM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">LC3993.M63 )</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Mofield, Emily, 1979- [author.]</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Coaching in gifted education : tools for building capacity and catalyzing change / Emily Mofield &amp;amp; Vicki Phelps.</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="b">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="o">LC3993.M63 )</subfield><subfield code="p">00002279301</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">ukm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">669014</controlfield>
+    <controlfield tag="003">UKM</controlfield>
+    <controlfield tag="008">261016s2024    my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UKM</subfield><subfield code="c">UKM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">QC981.8.C5.N335 2024 tesis )</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Najibah Suhaimi [author.]</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Literasi perubahan iklim dalam kalangan pelajar tingkatan empat di Klang Selangor/ Najibah binti Suhaimi.</subfield></datafield>
+    <datafield tag="264" ind1=" " ind2="1"><subfield code="b">©2024</subfield><subfield code="c">2024</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="b">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="o">QC981.8.C5.N335 2024 tesis )</subfield><subfield code="p">00002277264</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">ukm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">669015</controlfield>
+    <controlfield tag="003">UKM</controlfield>
+    <controlfield tag="008">261016s2024    my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UKM</subfield><subfield code="c">UKM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">HQ31.N837 2024 tesis )</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Nurulhanis Noh [author.]</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Kesediaan guru daripada aspek pengetahuan kandungan, kemahiran dan sikap dalam pelaksanaan pengajaran pendidikan seksualiti di prasekolah/ Nurulhanis binti Noh.</subfield></datafield>
+    <datafield tag="264" ind1=" " ind2="1"><subfield code="b">©2024</subfield><subfield code="c">2024</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="b">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="o">HQ31.N837 2024 tesis )</subfield><subfield code="p">00002277263</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">ukm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">669020</controlfield>
+    <controlfield tag="003">UKM</controlfield>
+    <controlfield tag="008">261016s2024    my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UKM</subfield><subfield code="c">UKM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">QA39.2.N637 2024 tesis )</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Nor Hanis Ahmad Zamzuri [author.]</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Pembangunan modul pengajaran matematik pengenalan fakta asas darab bagi murid bermasalah pembelajaran spesifik / Nor Hanis bt Ahmad Zamzuri.</subfield></datafield>
+    <datafield tag="264" ind1=" " ind2="1"><subfield code="b">©2024</subfield><subfield code="c">2024</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="b">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="o">QA39.2.N637 2024 tesis )</subfield><subfield code="p">00002277261</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">ukm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">669214</controlfield>
+    <controlfield tag="003">UKM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UKM</subfield><subfield code="c">UKM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">LG173.K82.M844 2024 arkib )</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Mohd Ekhwan Toriman [author.]</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Bicara Perdana Naib Canselor Universiti Kebangsaan Malaysia 2024 : mutiara watan, juara sepanjang zaman / YBhg. Prof. Dato&apos; Gs. Ts. Dr. Mohd Ekhwan Hj. Toriman ; penyunting Mohd Rizal Palil [and 14 others].]</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="b">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="o">LG173.K82.M844 2024 arkib )</subfield><subfield code="p">00002286951</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="b">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="o">LG173.K82.M844 2024 arkib )</subfield><subfield code="p">00002286952</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="b">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="o">LG173.K82.M844 2024 arkib )</subfield><subfield code="p">00002286953</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="b">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="o">LG173.K82.M844 kat )</subfield><subfield code="p">00002281924</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="b">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="o">LG173.K82.M844 kat )</subfield><subfield code="p">00002281925</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="b">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="o">LG173.K82.M844 2024 arkib )</subfield><subfield code="p">00002281926</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="b">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="o">LG173.K82.M844 2024 arkib )</subfield><subfield code="p">00002281927</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN UNDANG-UNDANG</subfield><subfield code="b">PERPUSTAKAAN UNDANG-UNDANG</subfield><subfield code="o">LG173.K82 M844 21 )</subfield><subfield code="p">00002282346</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">ukm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">669309</controlfield>
+    <controlfield tag="003">UKM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UKM</subfield><subfield code="c">UKM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">W18.2.B747m 2024 9HUKMPRA )</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Bostwick, Paula [author.]</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Medical terminology : learning through practice / Paula Bostwick.</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN PRAKLINIKAL</subfield><subfield code="b">PERPUSTAKAAN PRAKLINIKAL</subfield><subfield code="o">W18.2.B747m 2024 9HUKMPRA )</subfield><subfield code="p">00002283082</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">ukm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">669313</controlfield>
+    <controlfield tag="003">UKM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UKM</subfield><subfield code="c">UKM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">WB18.2.R724s 2024 9HUKMPRA )</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Rogers, Julia L [author.]</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Study guide for McCance &amp;amp; Huether&apos;s pathophysiology : the biologic basis for disease in adults and children / Julia L. Rogers.</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN PRAKLINIKAL</subfield><subfield code="b">PERPUSTAKAAN PRAKLINIKAL</subfield><subfield code="o">WB18.2.R724s 2024 9HUKMPRA )</subfield><subfield code="p">00002283080</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">ukm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">669402</controlfield>
+    <controlfield tag="003">UKM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UKM</subfield><subfield code="c">UKM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">QZ50.T468 2024 9HUKM )</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Cohn, Ronald Doron [editor.]</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Thompson &amp;amp; Thompson genetics and genomics in medicine / edited by Ronald Doron Cohn, Stephen W. Scherer, Ada Hamosh.</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN HOSPITAL CANSELOR TUANKU MUHRIZ</subfield><subfield code="b">PERPUSTAKAAN HOSPITAL CANSELOR TUANKU MUHRIZ</subfield><subfield code="o">QZ50.T468 2024 9HUKM )</subfield><subfield code="p">00002284539</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN HOSPITAL PAKAR KANAK-KANAK</subfield><subfield code="b">PERPUSTAKAAN HOSPITAL PAKAR KANAK-KANAK</subfield><subfield code="o">QZ50.T468 2024 9HPKK )</subfield><subfield code="p">00002284290</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN PRAKLINIKAL</subfield><subfield code="b">PERPUSTAKAAN PRAKLINIKAL</subfield><subfield code="o">QZ50.T468 2024 9HUKMPRA )</subfield><subfield code="p">00002283102</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN PRAKLINIKAL</subfield><subfield code="b">PERPUSTAKAAN PRAKLINIKAL</subfield><subfield code="o">QZ50.T468 2024 9HUKMPRA )</subfield><subfield code="p">00002283089</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">ukm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">669403</controlfield>
+    <controlfield tag="003">UKM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UKM</subfield><subfield code="c">UKM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">QV4.R196r 2024 9HUKM )</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Ritter, James M [author.]</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Rang and Dale&apos;s pharmacology / James M. Ritter [and six others].</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN HOSPITAL CANSELOR TUANKU MUHRIZ</subfield><subfield code="b">PERPUSTAKAAN HOSPITAL CANSELOR TUANKU MUHRIZ</subfield><subfield code="o">QV4.R196r 2024 9HUKM )</subfield><subfield code="p">00002284537</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN PRAKLINIKAL</subfield><subfield code="b">PERPUSTAKAAN PRAKLINIKAL</subfield><subfield code="o">QV4.R196r 2024 9HUKMPRA )</subfield><subfield code="p">00002283088</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">ukm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">669431</controlfield>
+    <controlfield tag="003">UKM</controlfield>
+    <controlfield tag="008">261016s2024    my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UKM</subfield><subfield code="c">UKM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">QP517.B57.V536 2024 tesis )</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Vinothienni Vengatharajuloo [author.]</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Pengenalpastian gen pengawalaturan yang berkaitan dengan biosintesis hormon tumbesaran Metisa plana menggunakan analisis rangkaian pengekspresan bersama gen/ Vinothienni Vengatharajuloo.</subfield></datafield>
+    <datafield tag="264" ind1=" " ind2="1"><subfield code="b">©2024</subfield><subfield code="c">2024</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="b">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="o">QP517.B57.V536 2024 tesis )</subfield><subfield code="p">00002277232</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">ukm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">669511</controlfield>
+    <controlfield tag="003">UKM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UKM</subfield><subfield code="c">UKM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">DS740.5.B8 )</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Zou, Yizheng [author.]</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">The political economy of China-Myanmar relations / Yizheng Zou.</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="b">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="o">DS740.5.B8 )</subfield><subfield code="p">00002279346</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">ukm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">669545</controlfield>
+    <controlfield tag="003">UKM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UKM</subfield><subfield code="c">UKM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">HF5718.22.P533 3 )</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Pica, Lea [author.]</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Present beyond measure : design, visualize, and deliver data stories that inspire action / Lea Pica.</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN LINGKUNGAN KEDUA</subfield><subfield code="b">PERPUSTAKAAN LINGKUNGAN KEDUA</subfield><subfield code="o">HF5718.22.P533 3 )</subfield><subfield code="p">00002262710</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">ukm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">669547</controlfield>
+    <controlfield tag="003">UKM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UKM</subfield><subfield code="c">UKM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">QA76.9.D343.G635 2024 3 )</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Goldmeier, Jordan [author.]</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Data smart : using data science to transform information into insight / Jordan Goldmeier.</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN LINGKUNGAN KEDUA</subfield><subfield code="b">PERPUSTAKAAN LINGKUNGAN KEDUA</subfield><subfield code="o">QA76.9.D343.G635 2024 3 )</subfield><subfield code="p">00002262711</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">ukm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">669551</controlfield>
+    <controlfield tag="003">UKM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UKM</subfield><subfield code="c">UKM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">HD30.2.P437 2024 3 )</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Pearlson, Keri E [author.]</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Managing and using information systems : a strategic approach / Keri E. Pearlson, Carol S. Saunders,and Dennis F. Galletta.</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN LINGKUNGAN KEDUA</subfield><subfield code="b">PERPUSTAKAAN LINGKUNGAN KEDUA</subfield><subfield code="o">HD30.2.P437 2024 3 )</subfield><subfield code="p">00002262714</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">ukm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">669637</controlfield>
+    <controlfield tag="003">UKM</controlfield>
+    <controlfield tag="008">261016s2024    my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UKM</subfield><subfield code="c">UKM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">LB1028.5. N837 2024 tesis )</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Nursyuhada&apos; Ab Wahab [author.]</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">The blended learning experiences of Malaysian islamic based public university students in an english language course/ Nursyuhada&apos; binti Ab Wahab.</subfield></datafield>
+    <datafield tag="264" ind1=" " ind2="1"><subfield code="b">©2024</subfield><subfield code="c">2024</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="b">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="o">LB1028.5. N837 2024 tesis )</subfield><subfield code="p">00002277218</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">ukm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">669639</controlfield>
+    <controlfield tag="003">UKM</controlfield>
+    <controlfield tag="008">261016s2024    my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UKM</subfield><subfield code="c">UKM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">LB2806.N636 2024 tesis )</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Noor Lina Mohd Yusuf [author.]</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Komunikasi kepimpinan sebagai pengantara hubungan antara kepimpinan khidmat komuniti dengan kompetensi graduan di IPTA/ Noor Lina binti Mohd Yusuf.</subfield></datafield>
+    <datafield tag="264" ind1=" " ind2="1"><subfield code="b">©2024</subfield><subfield code="c">2024</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="b">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="o">LB2806.N636 2024 tesis )</subfield><subfield code="p">00002277217</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">ukm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">669646</controlfield>
+    <controlfield tag="003">UKM</controlfield>
+    <controlfield tag="008">261016s2024    my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UKM</subfield><subfield code="c">UKM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">LB1028.3.N636 2024 tesis )</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Noor Syazwani Roni [author.]</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Pengetahuan teknologi, kurikulum dan pedagogi terhadap kompetensi guru kesusasteraan Melayu/ Noor Syazwani binti Roni.</subfield></datafield>
+    <datafield tag="264" ind1=" " ind2="1"><subfield code="b">©2024</subfield><subfield code="c">2024</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="b">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="o">LB1028.3.N636 2024 tesis )</subfield><subfield code="p">00002277216</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">ukm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">669659</controlfield>
+    <controlfield tag="003">UKM</controlfield>
+    <controlfield tag="008">261016s2024    my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UKM</subfield><subfield code="c">UKM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">HF5415.32.N337 2024 tesis )</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Narmadtiya,Bagus Shandy [author.]</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Driving factors of the Indonesian university students&apos; economic behavior: the mediating role of economic, digital, and entrepreneurial literacy/ Bagus Shandy Narmaditya.</subfield></datafield>
+    <datafield tag="264" ind1=" " ind2="1"><subfield code="b">©2024</subfield><subfield code="c">2024</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="b">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="o">HF5415.32.N337 2024 tesis )</subfield><subfield code="p">00002277215</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">ukm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">669660</controlfield>
+    <controlfield tag="003">UKM</controlfield>
+    <controlfield tag="008">261016s2024    my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UKM</subfield><subfield code="c">UKM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">LB1062.H335 2024 tesis )</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Hainora Hamzah [author.]</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Pembangunan modul latihan penerapan kemahiran berfikir aras tinggi (KBAT) dalam pengajaran Pendidikan Islam berasaskan metakognitif melalui pedagogi terbeza/ Hainora Hamzah.</subfield></datafield>
+    <datafield tag="264" ind1=" " ind2="1"><subfield code="b">©2024</subfield><subfield code="c">2024</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="b">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="o">LB1062.H335 2024 tesis )</subfield><subfield code="p">00002277214</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">ukm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">669661</controlfield>
+    <controlfield tag="003">UKM</controlfield>
+    <controlfield tag="008">261016s2024    my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UKM</subfield><subfield code="c">UKM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">Q181.N6368 2024 tesis )</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Noor Anita Rahman [author.]</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Pendekatan STEM dalam kalangan guru matematik sekolah menengah/ Noor Anita binti Rahman.</subfield></datafield>
+    <datafield tag="264" ind1=" " ind2="1"><subfield code="b">©2024</subfield><subfield code="c">2024</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="b">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="o">Q181.N6368 2024 tesis )</subfield><subfield code="p">00002277213</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">ukm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">669663</controlfield>
+    <controlfield tag="003">UKM</controlfield>
+    <controlfield tag="008">261016s2024    my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UKM</subfield><subfield code="c">UKM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">LB1044.87.F734 2024 tesis )</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Freddie J Simol, Carlmila [author.]</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Design and development of motivational web-based english instructional materials for learning disabilities students in Sabah/ Carlmila Freddie J Simol.</subfield></datafield>
+    <datafield tag="264" ind1=" " ind2="1"><subfield code="b">©2024</subfield><subfield code="c">2024</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="b">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="o">LB1044.87.F734 2024 tesis )</subfield><subfield code="p">00002277212</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">ukm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">669666</controlfield>
+    <controlfield tag="003">UKM</controlfield>
+    <controlfield tag="008">261016s2024    my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UKM</subfield><subfield code="c">UKM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">HC79.I55.N334 2024 tesis )</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Nagari, Primasa Minerva [author.]</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Analisis permodelan persamaan berstruktur faktor yang mempengaruhi kesediaan k-ekonomi pelajar universiti di Indonesia/ Primasa Minerva Nagari.</subfield></datafield>
+    <datafield tag="264" ind1=" " ind2="1"><subfield code="b">©2024</subfield><subfield code="c">2024</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="b">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="o">HC79.I55.N334 2024 tesis )</subfield><subfield code="p">00002277211</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">ukm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">669667</controlfield>
+    <controlfield tag="003">UKM</controlfield>
+    <controlfield tag="008">261016s2024    my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UKM</subfield><subfield code="c">UKM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">LB1044.88.I237 2024 tesis )</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Ibrahim,Said Ahmed Mustafa [author.]</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Developing a training module for Malaysian english language teachers to create innovative elt materials/ Said Ahmed Mustafa Ibrahim.</subfield></datafield>
+    <datafield tag="264" ind1=" " ind2="1"><subfield code="b">©2024</subfield><subfield code="c">2024</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="b">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="o">LB1044.88.I237 2024 tesis )</subfield><subfield code="p">00002277210</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">ukm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">669675</controlfield>
+    <controlfield tag="003">UKM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UKM</subfield><subfield code="c">UKM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">QV738.U58 2024 9 )</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Mohd Rohaizat Hassan [author.]</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Unregistered medicines : a neglected issues in our community / Mohd Rohaizat Hassan [and three others].</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN DR ABDUL LATIFF</subfield><subfield code="b">PERPUSTAKAAN DR ABDUL LATIFF</subfield><subfield code="o">QV738.U58 2024 9 )</subfield><subfield code="p">00002251102</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN HOSPITAL CANSELOR TUANKU MUHRIZ</subfield><subfield code="b">PERPUSTAKAAN HOSPITAL CANSELOR TUANKU MUHRIZ</subfield><subfield code="o">QV738.U58 2024 9HUKM )</subfield><subfield code="p">00002284679</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN HOSPITAL CANSELOR TUANKU MUHRIZ</subfield><subfield code="b">PERPUSTAKAAN HOSPITAL CANSELOR TUANKU MUHRIZ</subfield><subfield code="o">QV738.U58 2024 9HUKM )</subfield><subfield code="p">00002284680</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN HOSPITAL CANSELOR TUANKU MUHRIZ</subfield><subfield code="b">PERPUSTAKAAN HOSPITAL CANSELOR TUANKU MUHRIZ</subfield><subfield code="o">QV738.U58 2024 9HUKM )</subfield><subfield code="p">00002284622</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN PRAKLINIKAL</subfield><subfield code="b">PERPUSTAKAAN PRAKLINIKAL</subfield><subfield code="o">QV738.U58 2024 9HUKMPRA )</subfield><subfield code="p">00002283090</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN PRAKLINIKAL</subfield><subfield code="b">PERPUSTAKAAN PRAKLINIKAL</subfield><subfield code="o">QV738.U58 2024 9HUKMPRA )</subfield><subfield code="p">00002283092</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">ukm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">669707</controlfield>
+    <controlfield tag="003">UKM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UKM</subfield><subfield code="c">UKM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">GB1003.2.S393 2024 )</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Schwartz, Franklin W.  (Franklin W.) [author.]</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Fundamentals of groundwater / Franklin W. Schwartz, Hubao Zhang.</subfield></datafield>
+    <datafield tag="264" ind1=" " ind2="1"><subfield code="b">Fundamentals of ground water .</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="b">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="o">GB1003.2.S393 2024 )</subfield><subfield code="p">00002264714</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">ukm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">669715</controlfield>
+    <controlfield tag="003">UKM</controlfield>
+    <controlfield tag="008">261016s2024    my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UKM</subfield><subfield code="c">UKM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">LB1065.E736 2024 tesis )</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Erne Hayaty Osman [author.]</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Penerokaan amalan pengurusan keperluan murid b40 berdasarkan teori keperluan Maslow/ Erne Hayaty binti Osman.</subfield></datafield>
+    <datafield tag="264" ind1=" " ind2="1"><subfield code="b">©2024</subfield><subfield code="c">2024</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="b">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="o">LB1065.E736 2024 tesis )</subfield><subfield code="p">00002279688</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">ukm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">669716</controlfield>
+    <controlfield tag="003">UKM</controlfield>
+    <controlfield tag="008">261016s2024    my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UKM</subfield><subfield code="c">UKM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">P95.N636 2024 tesis )</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Noor Badriah Abu Bakar [author.]</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Amalan penyoalan lisan guru sekolah rendah dalam pembelajaran sains berasaskan inkuiri/ Noor Badriah Abu Bakar.</subfield></datafield>
+    <datafield tag="264" ind1=" " ind2="1"><subfield code="b">©2024</subfield><subfield code="c">2024</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="b">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="o">P95.N636 2024 tesis )</subfield><subfield code="p">00002279689</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">ukm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">669718</controlfield>
+    <controlfield tag="003">UKM</controlfield>
+    <controlfield tag="008">261016s2024    my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UKM</subfield><subfield code="c">UKM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">LB1029.F55.W336 2024 tesis )</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Wan Hatimansarozi Wan Omar [author.]</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Pengaruh persepsi penerimaan guru terhadap pendekatan kelas berbalik dalam kalangan guru sains sekolah menengah/ Wan Hatimansarozi bin Wan Omar.</subfield></datafield>
+    <datafield tag="264" ind1=" " ind2="1"><subfield code="b">©2024</subfield><subfield code="c">2024</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="b">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="o">LB1029.F55.W336 2024 tesis )</subfield><subfield code="p">00002279690</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">ukm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">669740</controlfield>
+    <controlfield tag="003">UKM</controlfield>
+    <controlfield tag="008">261016s2024    my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UKM</subfield><subfield code="c">UKM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">LB1044.87.W336 2024 tesis )</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Wan Nurul Aishah Wan Mohamad [author.]</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Pembangunan dan keberkesanan modul maya 4C terhadap pencapaian dan literasi tenaga bagi standard kandungan sektor tenaga/ Wan Nurul Aishah binti Wan Mohamad.</subfield></datafield>
+    <datafield tag="264" ind1=" " ind2="1"><subfield code="b">©2024</subfield><subfield code="c">2024</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="b">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="o">LB1044.87.W336 2024 tesis )</subfield><subfield code="p">00002279691</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">ukm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">669743</controlfield>
+    <controlfield tag="003">UKM</controlfield>
+    <controlfield tag="008">261016s2024    my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UKM</subfield><subfield code="c">UKM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">LB1028.3.M8349 2024 tesis )</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Muhammad Fuad Ahmad Tajuddin [author.]</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Faktor-faktor yang mempengaruhi pengetahuan isi kandungan (PIK) bidang jawi dalam kalangan guru pendidikan islam sekolah rendah/ Muhammad Fuad bin Ahmad Tajuddin.</subfield></datafield>
+    <datafield tag="264" ind1=" " ind2="1"><subfield code="b">©2024</subfield><subfield code="c">2024</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="b">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="o">LB1028.3.M8349 2024 tesis )</subfield><subfield code="p">00002279692</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">ukm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">669744</controlfield>
+    <controlfield tag="003">UKM</controlfield>
+    <controlfield tag="008">261016s2024    my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UKM</subfield><subfield code="c">UKM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">LB2831.96.N837 2024 tesis )</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Nurul Fathiyah Ghazali [author.]</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Pengaruh gaya kepimpinan guru besar terhadap kepuasan kerja guru sekolah rendah di Wilayah Persekutuan Putrajaya/ Nurul Fathiyah binti Ghazali.</subfield></datafield>
+    <datafield tag="264" ind1=" " ind2="1"><subfield code="b">©2024</subfield><subfield code="c">2024</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="b">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="o">LB2831.96.N837 2024 tesis )</subfield><subfield code="p">00002279782</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">ukm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">669746</controlfield>
+    <controlfield tag="003">UKM</controlfield>
+    <controlfield tag="008">261016s2024    my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UKM</subfield><subfield code="c">UKM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">LB1025.3.M8348 2024 tesis )</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Muhammad Aizat Anwar Apandi [author.]</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Kreativiti dan inovasi guru pendidikan Islam sekolah rendah/ Muhammad Aizat bin Anwar Apandi.</subfield></datafield>
+    <datafield tag="264" ind1=" " ind2="1"><subfield code="b">©2024</subfield><subfield code="c">2024</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="b">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="o">LB1025.3.M8348 2024 tesis )</subfield><subfield code="p">00002279783</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">ukm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">669748</controlfield>
+    <controlfield tag="003">UKM</controlfield>
+    <controlfield tag="008">261016s2024    my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UKM</subfield><subfield code="c">UKM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">LB1028.3.N8377 2024 tesis )</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Nurbaizura Hussain [author.]</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Pengaruh pengetahuan isi kandungan, kontekstual dan pedagogi umum serta opsyen guru ke atas PPIK perubahan iklim/ Nurbaizura binti Hussain.</subfield></datafield>
+    <datafield tag="264" ind1=" " ind2="1"><subfield code="b">©2024</subfield><subfield code="c">2024</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="b">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="o">LB1028.3.N8377 2024 tesis )</subfield><subfield code="p">00002279784</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">ukm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">669788</controlfield>
+    <controlfield tag="003">UKM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UKM</subfield><subfield code="c">UKM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">TH4524.S645 3 )</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Smith, Robin [author.]</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Process plant design / Robin Smith.</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN LINGKUNGAN KEDUA</subfield><subfield code="b">PERPUSTAKAAN LINGKUNGAN KEDUA</subfield><subfield code="o">TH4524.S645 3 )</subfield><subfield code="p">00002262740</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">ukm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">669801</controlfield>
+    <controlfield tag="003">UKM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UKM</subfield><subfield code="c">UKM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">TX907.5.M4I99 )</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Izwan Harith Md. Ithnan [author.]</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Promoting halal hotels in Malaysia / Izwan Harith Md. Ithnan, Ahmad Azmi M. Ariffin, Norzalita A. Aziz.</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="b">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="o">TX907.5.M4I99 )</subfield><subfield code="p">00002287641</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="b">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="o">TX907.5.M4.I99 arkib )</subfield><subfield code="p">00002288320</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="b">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="o">TX907.5.M4I99 kat )</subfield><subfield code="p">00002279852</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="b">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="o">TX907.5.M4.I99 arkib )</subfield><subfield code="p">00002276653</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">ukm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">669802</controlfield>
+    <controlfield tag="003">UKM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UKM</subfield><subfield code="c">UKM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">LA1236.A539 kat )</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Anuar Ahmad [author.]</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Idea bangsa idaman dan sistem pendidikan di Malaysia / Anuar Ahmad.</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="b">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="o">LA1236.A539 kat )</subfield><subfield code="p">00002279847</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="b">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="o">LA1236.A539 arkib )</subfield><subfield code="p">00002276654</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">ukm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">669803</controlfield>
+    <controlfield tag="003">UKM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UKM</subfield><subfield code="c">UKM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">TS535.N636 2024 )</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Noor Hazfalinda Hamzah [author.]</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Pemilikan senjata api di Malaysia: edisi kedua / Noor Hazfalinda Hamzah, Gina Francesca Gabriel, Khairunnisa Aliah Abdullah Faizal, Khairul Osman.</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="b">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="o">TS535.N636 2024 )</subfield><subfield code="p">00002279854</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="b">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="o">TS535.N636 2024 arkib )</subfield><subfield code="p">00002276655</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">ukm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">669804</controlfield>
+    <controlfield tag="003">UKM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UKM</subfield><subfield code="c">UKM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">TK2933.P76L56 )</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Lim, Bee Huah [author.]</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Sel fuel: reka bentuk kelestarian tenaga hidrogen / Lim Bee Huah, Masli Irwan Rosli, Edy Herianto Majlan.</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="b">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="o">TK2933.P76L56 )</subfield><subfield code="p">00002279868</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="b">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="o">TK2933.P76.L56 arkib )</subfield><subfield code="p">00002276656</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">ukm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">669805</controlfield>
+    <controlfield tag="003">UKM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UKM</subfield><subfield code="c">UKM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">BF723.M54.S837 )</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Suraiya Ishak [author.]</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Etika dan pembangunan masyarakat / Suraiya Ishak, Ahmad Ralis Che Omar.</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="b">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="o">BF723.M54.S837 )</subfield><subfield code="p">00002279862</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="b">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="o">BF723.M54.S837 arkib )</subfield><subfield code="p">00002276657</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">ukm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">669889</controlfield>
+    <controlfield tag="003">UKM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UKM</subfield><subfield code="c">UKM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">HD8700.6 .R48 )</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">AM</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Revisiting colonialism and colonial labour : the South Asian working class in British Malaya / edited by Sivachandralingam Sundara Raja, Shivalinggam Raymond.</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="b">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="o">HD8700.6 .R48 )</subfield><subfield code="p">00002279320</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">ukm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">669962</controlfield>
+    <controlfield tag="003">UKM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UKM</subfield><subfield code="c">UKM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">TK7874 .G688 2024 3 )</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Gray, Paul R [author.]</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Analysis and design of analog integrated circuits / Paul R. Gray, Paul J. Hurst, Stephen H. Lewis, Robert G. Meyer.</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN LINGKUNGAN KEDUA</subfield><subfield code="b">PERPUSTAKAAN LINGKUNGAN KEDUA</subfield><subfield code="o">TK7874 .G688 2024 3 )</subfield><subfield code="p">00002262746</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN LINGKUNGAN KEDUA</subfield><subfield code="b">PERPUSTAKAAN LINGKUNGAN KEDUA</subfield><subfield code="o">TK7874.G688 2024 3 )</subfield><subfield code="p">00002262720</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">ukm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">669978</controlfield>
+    <controlfield tag="003">UKM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UKM</subfield><subfield code="c">UKM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">DS523.4.M35D536 kat )</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Muammar Ghaddafi Hanafiah [editor.]</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Dinamika sosiobudaya Melayu / disunting oleh Muammar Ghaddafi Hanafiah, Mohd Yuszaidy Muhd Yusoff.</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="b">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="o">DS523.4.M35D536 kat )</subfield><subfield code="p">00002279853</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="b">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="o">DS523.4.M35.D536 arkib )</subfield><subfield code="p">00002276658</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">ukm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">669979</controlfield>
+    <controlfield tag="003">UKM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UKM</subfield><subfield code="c">UKM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">LC910.M4P46 ki )</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Hafizhah Zulkifli [editor.]</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Pengenalan pengajaran dan pembelajaran abad ke-21 pendidikan Islam / disunting oleh Hafizhah Zulkifli, Harun Baharudin, Mohd Kaziman Ab Wahab.</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="b">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="o">LC910.M4P46 ki )</subfield><subfield code="p">00002279845</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="b">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="o">LC910.M4.P46 arkib )</subfield><subfield code="p">00002276659</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">ukm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">669980</controlfield>
+    <controlfield tag="003">UKM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UKM</subfield><subfield code="c">UKM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">BP165.5.I858 ki )</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Muhammad Hazim Baderun [editor.]</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Isu usuluddin dan falsafah / disunting oleh Ahmad Yunus Mohd Noor, Muhammad Hazim Baderin.</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="b">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="o">BP165.5.I858 ki )</subfield><subfield code="p">00002279947</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="b">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="o">BP165.5.I858 arkib )</subfield><subfield code="p">00002276660</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">ukm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">669981</controlfield>
+    <controlfield tag="003">UKM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UKM</subfield><subfield code="c">UKM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">HF5549.5.E43.J44 )</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Mohd. Nasir Selamat [editor.]</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Jenayah pekerjaan di Malaysia / disunting oleh Mohd Nasir Selamat, Daniella Mokhtar, Mohammad Rahim Kamaluddin.</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="b">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="o">HF5549.5.E43.J44 )</subfield><subfield code="p">00002279855</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="b">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="o">HF5549.5.E43.J44 arkib )</subfield><subfield code="p">00002276661</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">ukm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">669982</controlfield>
+    <controlfield tag="003">UKM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UKM</subfield><subfield code="c">UKM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">HV40.T44 )</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Mohd Suhaimi Mohamad [editor.]</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Teori asas dalam praktis kerja sosial / disunting oleh Mohd Suhaimi Mohamad, Noremy Md. Akhir, Aizan Sofia Amin.</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="b">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="o">HV40.T44 )</subfield><subfield code="p">00002279856</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="b">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="o">HV40.T44 arkib )</subfield><subfield code="p">00002282000</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">ukm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">669990</controlfield>
+    <controlfield tag="003">UKM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UKM</subfield><subfield code="c">UKM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">WB18.2.K19t 2024 9HUKM )</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Kasfiki, Eirini V [author.]</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">250 cases in clinical medicine / Eirini V. Kasfiki, Ciaran W. P. Kelly.</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN HOSPITAL CANSELOR TUANKU MUHRIZ</subfield><subfield code="b">PERPUSTAKAAN HOSPITAL CANSELOR TUANKU MUHRIZ</subfield><subfield code="o">WB18.2.K19t 2024 9HUKM )</subfield><subfield code="p">00002284532</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN PRAKLINIKAL</subfield><subfield code="b">PERPUSTAKAAN PRAKLINIKAL</subfield><subfield code="o">WB18.2.K19t 2024 9HUKMPRA )</subfield><subfield code="p">00002283099</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">ukm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">669997</controlfield>
+    <controlfield tag="003">UKM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UKM</subfield><subfield code="c">UKM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">WN180.U54 2024 9HUKMPRA )</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Qureshi, Zeshan [editor.]</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">The unofficial guide to radiology / edited by Zeshan Qureshi.</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN PRAKLINIKAL</subfield><subfield code="b">PERPUSTAKAAN PRAKLINIKAL</subfield><subfield code="o">WN180.U54 2024 9HUKMPRA )</subfield><subfield code="p">00002283101</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">ukm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">670017</controlfield>
+    <controlfield tag="003">UKM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UKM</subfield><subfield code="c">UKM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">HQ1061 .B4773 2024 21 )</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Mohd Shahwahid Othman [editor]</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Bersara &amp;amp; produktif / editor: Dr. Mohd Shahwahid Haji Othman, Farah Mohd Shahwahid, and Hammad Mohamad Dahalan.</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN UNDANG-UNDANG</subfield><subfield code="b">PERPUSTAKAAN UNDANG-UNDANG</subfield><subfield code="o">HQ1061 .B4773 2024 21 )</subfield><subfield code="p">00002282400</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">ukm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">670034</controlfield>
+    <controlfield tag="003">UKM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UKM</subfield><subfield code="c">UKM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">H59.A237I436 kat )</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Muhammad Azwan Abd. Rahman [editor. ]</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Ilmuwan Sains Sosial Malaysia : kumpulan rencana, penghormatan untuk Profesor Emeritus Dato&apos; Dr. Abdul Rahman Embong / penyunting : Muhammad Azwan Abd Rahman &amp;amp; Sity Daud.</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="b">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="o">H59.A237I436 kat )</subfield><subfield code="p">00002279893</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">ukm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">670035</controlfield>
+    <controlfield tag="003">UKM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UKM</subfield><subfield code="c">UKM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">BP80.Q37I463 2024 ki )</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Zulkifli Hasan [editor.]</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Imam Yusuf al-Qaradawi : pemikiran dan pengaruhnya terhadap gerakan dakwah, politik dan masyarakat / Penyunting; Zulkifli Hasan.</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="b">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="o">BP80.Q37I463 2024 ki )</subfield><subfield code="p">00002279895</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">ukm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">670036</controlfield>
+    <controlfield tag="003">UKM</controlfield>
+    <controlfield tag="008">261016s        my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UKM</subfield><subfield code="c">UKM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">BP80.I29M834 ki )</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Mohd. Farid Mohd. Sharif [author.]</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Kontroversi Ibn Taymiyyah / Mohd Farid Mohd Sharif.</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="b">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="o">BP80.I29M834 ki )</subfield><subfield code="p">00002279896</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">ukm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">670045</controlfield>
+    <controlfield tag="003">UKM</controlfield>
+    <controlfield tag="008">261016s2024    my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UKM</subfield><subfield code="c">UKM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">HD30.28.M634 2024 tesis )</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Mohammed Amer Rahi [author.]</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Implementation of program and performance budget, planning, controlling, and spending rationalization in Iraqi public universities/ Mohammed Amer Rahi.</subfield></datafield>
+    <datafield tag="264" ind1=" " ind2="1"><subfield code="b">©2024</subfield><subfield code="c">2024</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="b">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="o">HD30.28.M634 2024 tesis )</subfield><subfield code="p">00002279808</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">ukm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">670046</controlfield>
+    <controlfield tag="003">UKM</controlfield>
+    <controlfield tag="008">261016s2024    my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UKM</subfield><subfield code="c">UKM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">HD58.7.A839 2024 tesis )</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Asyakireen Samsudin [author.]</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Hubungan antara faktor kontekstual dengan tingkah laku peranan tambahan: berkembang maju dalam kerja sebagai pengantara dan efikasi kendiri sebagai penyerderhana/ Asyakireen binti Samsudin.</subfield></datafield>
+    <datafield tag="264" ind1=" " ind2="1"><subfield code="b">©2024</subfield><subfield code="c">2024</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="b">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="o">HD58.7.A839 2024 tesis )</subfield><subfield code="p">00002279809</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">ukm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">670047</controlfield>
+    <controlfield tag="003">UKM</controlfield>
+    <controlfield tag="008">261016s2024    my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UKM</subfield><subfield code="c">UKM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">BP170.25.N8377 2024 tesis )</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Nurul Hidayah Md Razali [author.]</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Kecekapan pengurusan dana wakaf tunai melalui teknologi maklumat &amp;amp; komunikasi, teknologi kewangan dan pengurusan risiko enterprais/ Nurul Hidayah binti Md Razali.</subfield></datafield>
+    <datafield tag="264" ind1=" " ind2="1"><subfield code="b">©2024</subfield><subfield code="c">2024</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="b">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="o">BP170.25.N8377 2024 tesis )</subfield><subfield code="p">00002279810</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">ukm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">670048</controlfield>
+    <controlfield tag="003">UKM</controlfield>
+    <controlfield tag="008">261016s2024    my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UKM</subfield><subfield code="c">UKM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">G155.A1.W535 2024 tesis )</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Wijijayanti,Trisetiai [author.]</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Pembangunan pelancongan luar bandar lestari kabupaten Malang Indonesia/ Trisetia Wijijayanti.</subfield></datafield>
+    <datafield tag="264" ind1=" " ind2="1"><subfield code="b">©2024</subfield><subfield code="c">2024</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="b">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="o">G155.A1.W535 2024 tesis )</subfield><subfield code="p">00002279811</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">ukm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">670050</controlfield>
+    <controlfield tag="003">UKM</controlfield>
+    <controlfield tag="008">261016s2024    my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UKM</subfield><subfield code="c">UKM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">BP170.25.N6378 2024 tesis )</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Norlaila Mazura Mohaiyadin [author.]</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">Potensi penggunaan teknologi blockchain untuk mengatasi cabaran akauntabiliti dan ketulusan dalam sistem maklumat pengurusan wakaf di universiti awam Malaysia/ Norlaila Mazura binti Mohaiyadin.</subfield></datafield>
+    <datafield tag="264" ind1=" " ind2="1"><subfield code="b">©2024</subfield><subfield code="c">2024</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="b">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="o">BP170.25.N6378 2024 tesis )</subfield><subfield code="p">00002279813</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">ukm</subfield></datafield>
+  </record>
+  <record>
+    <leader>00000cam a2200000 i 4500</leader>
+    <controlfield tag="001">670051</controlfield>
+    <controlfield tag="003">UKM</controlfield>
+    <controlfield tag="008">261016s2024    my ||||| |||| 00| 0 may d</controlfield>
+    <datafield tag="040" ind1=" " ind2=" "><subfield code="a">UKM</subfield><subfield code="c">UKM</subfield></datafield>
+    <datafield tag="041" ind1="0" ind2=" "><subfield code="a">may</subfield></datafield>
+    <datafield tag="050" ind1="0" ind2="0"><subfield code="a">HD82.H334 2024 tesis )</subfield></datafield>
+    <datafield tag="100" ind1="1" ind2=" "><subfield code="a">Hafizah Sith [author.]</subfield></datafield>
+    <datafield tag="245" ind1="1" ind2="0"><subfield code="a">The effect of the wage productivity gap on unemployment in emerging economies/ Hafizah bt Sith.</subfield></datafield>
+    <datafield tag="264" ind1=" " ind2="1"><subfield code="b">©2024</subfield><subfield code="c">2024</subfield></datafield>
+    <datafield tag="952" ind1=" " ind2=" "><subfield code="a">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="b">PERPUSTAKAAN TUN SERI LANANG</subfield><subfield code="o">HD82.H334 2024 tesis )</subfield><subfield code="p">00002279814</subfield></datafield>
+    <datafield tag="996" ind1=" " ind2=" "><subfield code="a">ukm</subfield></datafield>
+  </record>
+</collection>

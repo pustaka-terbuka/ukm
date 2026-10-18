@@ -1,0 +1,534 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection xmlns="http://www.loc.gov/MARC21/slim">
+<record>
+  <leader>01325cam a2200349Ii 4500</leader>
+  <controlfield tag="001">651622</controlfield>
+  <controlfield tag="008">191202s2020    xxka    o     001 0 eng d</controlfield>
+  <controlfield tag="003">UKM</controlfield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">9780128215005</subfield>
+    <subfield code="q">paperback</subfield>
+    <subfield code="c">RM803.70</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="d">UKM</subfield>
+    <subfield code="e">rda</subfield>
+  </datafield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">TP359.H8</subfield>
+    <subfield code="b">.L336 3</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Lamy, C.</subfield>
+    <subfield code="q">(Claude)</subfield>
+    <subfield code="e">author</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Production of clean hydrogen by electrochemical reforming of oxygenated organic compounds /</subfield>
+    <subfield code="c">Claude Lamy, Christophe Coutanceau, Steve Baranton.</subfield>
+  </datafield>
+  <datafield tag="264" ind1="1" ind2=" ">
+    <subfield code="a">London :</subfield>
+    <subfield code="b">Academic Pressis an imprint of Elsevier,</subfield>
+    <subfield code="c">[2020].</subfield>
+  </datafield>
+  <datafield tag="264" ind1="4" ind2=" ">
+    <subfield code="c">©2020.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">ix, 122 pages :</subfield>
+    <subfield code="b">illustrations ;</subfield>
+    <subfield code="c">23 cm.</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">text</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">unmediated</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">volume</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="490" ind1="1" ind2=" ">
+    <subfield code="a">Hydrogen and fuel cells primers</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2=" ">
+    <subfield code="a">Hydrogen as fuel.</subfield>
+    <subfield code="9">59964</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2=" ">
+    <subfield code="a">Organic compounds.</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2=" ">
+    <subfield code="a">Fuel cells.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Coutanceau, Christophe,</subfield>
+    <subfield code="e">author.</subfield>
+  </datafield>
+  <datafield tag="700" ind1="1" ind2=" ">
+    <subfield code="a">Baranton, Stev̀e,</subfield>
+    <subfield code="e">author.</subfield>
+  </datafield>
+  <datafield tag="830" ind1="0" ind2=" ">
+    <subfield code="a">Hydrogen and fuel cells primers.</subfield>
+  </datafield>
+  <datafield tag="907" ind1=" " ind2=" ">
+    <subfield code="a">.b16842765</subfield>
+    <subfield code="b">2021-03-09</subfield>
+    <subfield code="c">2020-12-18</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="c">01</subfield>
+    <subfield code="n">0</subfield>
+    <subfield code="k">TP359.H8 .L336 3</subfield>
+  </datafield>
+  <datafield tag="949" ind1=" " ind2=" ">
+    <subfield code="o">600000565 (3).</subfield>
+  </datafield>
+  <datafield tag="990" ind1=" " ind2=" ">
+    <subfield code="a">zak.</subfield>
+  </datafield>
+  <datafield tag="991" ind1=" " ind2=" ">
+    <subfield code="a">Institut Selfuel.</subfield>
+  </datafield>
+  <datafield tag="998" ind1=" " ind2=" ">
+    <subfield code="a">l0000</subfield>
+    <subfield code="b">2020-12-18</subfield>
+    <subfield code="c">m</subfield>
+    <subfield code="d">a</subfield>
+    <subfield code="f">eng</subfield>
+    <subfield code="g">xxk</subfield>
+    <subfield code="y">0</subfield>
+    <subfield code="z">.b16842765</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">651622</subfield>
+    <subfield code="d">651622</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">ukm</subfield>
+  </datafield>
+</record>
+<record>
+  <leader>01146nam a2200313 i 4500</leader>
+  <controlfield tag="001">651649</controlfield>
+  <controlfield tag="008">200219s2020                  000 0 eng d</controlfield>
+  <controlfield tag="003">UKM</controlfield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">9789672302193</subfield>
+    <subfield code="q">paperback</subfield>
+    <subfield code="c">RM25.00</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">UKM</subfield>
+    <subfield code="e">rda</subfield>
+  </datafield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">BF698.9.O3</subfield>
+    <subfield code="b">M844</subfield>
+  </datafield>
+  <datafield tag="100" ind1="0" ind2=" ">
+    <subfield code="a">Mohd Daud Bakar,</subfield>
+    <subfield code="e">author.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">Personaliti kejayaan:</subfield>
+    <subfield code="b">minda, displin, kemahiran /</subfield>
+    <subfield code="c">Mohd Daud Bakar.</subfield>
+  </datafield>
+  <datafield tag="264" ind1="1" ind2=" ">
+    <subfield code="a">Kuala Lumpur :</subfield>
+    <subfield code="b">Amanie Media Sdn Bhd,</subfield>
+    <subfield code="c">2020.</subfield>
+  </datafield>
+  <datafield tag="264" ind1="4" ind2=" ">
+    <subfield code="c">©2020.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">98 pages ;</subfield>
+    <subfield code="c">20 cm.</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">text</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">unmediated</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">volume</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2=" ">
+    <subfield code="a">Personality and occupation.</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2=" ">
+    <subfield code="a">Employees</subfield>
+    <subfield code="x">Psychology.</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2=" ">
+    <subfield code="a">Interpersonal relations.</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2=" ">
+    <subfield code="a">Interpersonal communication.</subfield>
+  </datafield>
+  <datafield tag="907" ind1=" " ind2=" ">
+    <subfield code="a">.b16843058</subfield>
+    <subfield code="b">2021-02-08</subfield>
+    <subfield code="c">2020-12-21</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="c">01</subfield>
+    <subfield code="n">0</subfield>
+    <subfield code="k">BF698.9.O3 M844</subfield>
+  </datafield>
+  <datafield tag="949" ind1=" " ind2=" ">
+    <subfield code="o">101013048</subfield>
+  </datafield>
+  <datafield tag="990" ind1=" " ind2=" ">
+    <subfield code="a">nma/jm</subfield>
+  </datafield>
+  <datafield tag="991" ind1=" " ind2=" ">
+    <subfield code="a">Fakulti Sains Sosial dan Kemanusiaan</subfield>
+  </datafield>
+  <datafield tag="998" ind1=" " ind2=" ">
+    <subfield code="a">t</subfield>
+    <subfield code="b">2020-12-21</subfield>
+    <subfield code="c">m</subfield>
+    <subfield code="d">a</subfield>
+    <subfield code="f">may</subfield>
+    <subfield code="g">my</subfield>
+    <subfield code="y">0</subfield>
+    <subfield code="z">.b16843058</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">651649</subfield>
+    <subfield code="d">651649</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">ukm</subfield>
+  </datafield>
+</record>
+<record>
+  <leader>01168nam a2200313 i 4500</leader>
+  <controlfield tag="001">651650</controlfield>
+  <controlfield tag="008">200219s2020       a          000 0 eng d</controlfield>
+  <controlfield tag="003">UKM</controlfield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">9789674815578</subfield>
+    <subfield code="q">paperback</subfield>
+    <subfield code="c">RM40.00 (PTSL)</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">UKM</subfield>
+    <subfield code="e">rda</subfield>
+  </datafield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">BF335</subfield>
+    <subfield code="b">.D834154</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Duhigg, Charles,</subfield>
+    <subfield code="e">author.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="4">
+    <subfield code="a">The power of habit /</subfield>
+    <subfield code="c">Charles Duhigg.</subfield>
+  </datafield>
+  <datafield tag="264" ind1="1" ind2=" ">
+    <subfield code="a">Batu Caves :</subfield>
+    <subfield code="b">PTS Publishing House,</subfield>
+    <subfield code="c">2020.</subfield>
+  </datafield>
+  <datafield tag="264" ind1="4" ind2=" ">
+    <subfield code="c">©2020.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">xix, 504 pages :</subfield>
+    <subfield code="b">illustrations ;</subfield>
+    <subfield code="c">23 cm.</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">text</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">unmediated</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">volume</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="534" ind1=" " ind2=" ">
+    <subfield code="p">Judul asal :</subfield>
+    <subfield code="t">The power of habit :</subfield>
+    <subfield code="b">why we do what we do in life and business.</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2=" ">
+    <subfield code="a">Habit.</subfield>
+    <subfield code="9">59920</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2=" ">
+    <subfield code="a">Habit</subfield>
+    <subfield code="x">Social aspects.</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2=" ">
+    <subfield code="a">Change (Psychology).</subfield>
+  </datafield>
+  <datafield tag="907" ind1=" " ind2=" ">
+    <subfield code="a">.b1684306x</subfield>
+    <subfield code="b">2021-02-08</subfield>
+    <subfield code="c">2020-12-21</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="c">01</subfield>
+    <subfield code="n">0</subfield>
+    <subfield code="k">BF335 .D834154</subfield>
+  </datafield>
+  <datafield tag="949" ind1=" " ind2=" ">
+    <subfield code="o">101013047</subfield>
+  </datafield>
+  <datafield tag="990" ind1=" " ind2=" ">
+    <subfield code="a">nma/jm</subfield>
+  </datafield>
+  <datafield tag="991" ind1=" " ind2=" ">
+    <subfield code="a">Fakulti Sains Sosial dan Kemanusiaan</subfield>
+  </datafield>
+  <datafield tag="998" ind1=" " ind2=" ">
+    <subfield code="a">t</subfield>
+    <subfield code="b">2020-12-21</subfield>
+    <subfield code="c">m</subfield>
+    <subfield code="d">a</subfield>
+    <subfield code="f">may</subfield>
+    <subfield code="g">my</subfield>
+    <subfield code="y">0</subfield>
+    <subfield code="z">.b1684306x</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">651650</subfield>
+    <subfield code="d">651650</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">ukm</subfield>
+  </datafield>
+</record>
+<record>
+  <leader>01071nam a2200289 i 4500</leader>
+  <controlfield tag="001">651653</controlfield>
+  <controlfield tag="008">200219s2020       a          000 0 eng d</controlfield>
+  <controlfield tag="003">UKM</controlfield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">9789830978499</subfield>
+    <subfield code="q">paperback</subfield>
+    <subfield code="c">RM20.00 (PTSL)</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">UKM</subfield>
+    <subfield code="e">rda</subfield>
+  </datafield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">KQB.</subfield>
+    <subfield code="b">A4777</subfield>
+  </datafield>
+  <datafield tag="100" ind1="0" ind2=" ">
+    <subfield code="a">Amar,</subfield>
+    <subfield code="e">author.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">165 nasihat guaman tuan lawyer /</subfield>
+    <subfield code="c">Amar.</subfield>
+  </datafield>
+  <datafield tag="246" ind1="3" ind2="0">
+    <subfield code="a">Seratus enam puluh lima nasihat guaman tuan lawyer.</subfield>
+  </datafield>
+  <datafield tag="264" ind1="1" ind2=" ">
+    <subfield code="a">Petaling Jaya :</subfield>
+    <subfield code="b">Galeri Ilmu Sdn Bhd,</subfield>
+    <subfield code="c">2020.</subfield>
+  </datafield>
+  <datafield tag="264" ind1="4" ind2=" ">
+    <subfield code="c">©2020.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">x,155 pages :</subfield>
+    <subfield code="b">illustrations ;</subfield>
+    <subfield code="c">22 cm.</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">text</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">unmediated</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">volume</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2=" ">
+    <subfield code="a">Law</subfield>
+    <subfield code="z">Malaysia</subfield>
+    <subfield code="x">Miscellanea.</subfield>
+  </datafield>
+  <datafield tag="907" ind1=" " ind2=" ">
+    <subfield code="a">.b16843095</subfield>
+    <subfield code="b">2021-02-08</subfield>
+    <subfield code="c">2020-12-21</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="c">01</subfield>
+    <subfield code="n">0</subfield>
+    <subfield code="k">KQB. A4777</subfield>
+  </datafield>
+  <datafield tag="949" ind1=" " ind2=" ">
+    <subfield code="o">101013040 (sbr)</subfield>
+  </datafield>
+  <datafield tag="990" ind1=" " ind2=" ">
+    <subfield code="a">nma/jm</subfield>
+  </datafield>
+  <datafield tag="991" ind1=" " ind2=" ">
+    <subfield code="a">Fakulti Sains Sosial dan Kemanusiaan</subfield>
+  </datafield>
+  <datafield tag="998" ind1=" " ind2=" ">
+    <subfield code="a">t</subfield>
+    <subfield code="b">2020-12-21</subfield>
+    <subfield code="c">m</subfield>
+    <subfield code="d">a</subfield>
+    <subfield code="f">may</subfield>
+    <subfield code="g">my</subfield>
+    <subfield code="y">0</subfield>
+    <subfield code="z">.b16843095</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">651653</subfield>
+    <subfield code="d">651653</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">ukm</subfield>
+  </datafield>
+</record>
+<record>
+  <leader>01538nam a2200373 i 4500</leader>
+  <controlfield tag="001">651654</controlfield>
+  <controlfield tag="008">200219t2020    my a     b    000 0 may d</controlfield>
+  <controlfield tag="003">UKM</controlfield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="a">9789674815585</subfield>
+    <subfield code="q">paperback</subfield>
+    <subfield code="c">RM40.00 (PTSL)</subfield>
+  </datafield>
+  <datafield tag="020" ind1=" " ind2=" ">
+    <subfield code="c">RM40.00 (PRAKLINIKAL)</subfield>
+  </datafield>
+  <datafield tag="040" ind1=" " ind2=" ">
+    <subfield code="a">UKM</subfield>
+    <subfield code="e">rda</subfield>
+  </datafield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">HM1166</subfield>
+    <subfield code="b">.L688154</subfield>
+  </datafield>
+  <datafield tag="090" ind1=" " ind2=" ">
+    <subfield code="a">HM1166</subfield>
+    <subfield code="b">.L919h 2020 9HUKMPRA</subfield>
+  </datafield>
+  <datafield tag="100" ind1="1" ind2=" ">
+    <subfield code="a">Lowndes, Leil,</subfield>
+    <subfield code="e">author.</subfield>
+  </datafield>
+  <datafield tag="245" ind1="1" ind2="0">
+    <subfield code="a">How to talk to anyone :</subfield>
+    <subfield code="b">92 little tricks for big success in relationships /</subfield>
+    <subfield code="c">Leil Lowndes.</subfield>
+  </datafield>
+  <datafield tag="264" ind1="1" ind2=" ">
+    <subfield code="a">Batu Caves :</subfield>
+    <subfield code="b">Publishing House,</subfield>
+    <subfield code="c">2020.</subfield>
+  </datafield>
+  <datafield tag="264" ind1="4" ind2=" ">
+    <subfield code="c">©2020.</subfield>
+  </datafield>
+  <datafield tag="300" ind1=" " ind2=" ">
+    <subfield code="a">xiii, 481 pages :</subfield>
+    <subfield code="b">illustrations ;</subfield>
+    <subfield code="c">23 cm.</subfield>
+  </datafield>
+  <datafield tag="336" ind1=" " ind2=" ">
+    <subfield code="a">text</subfield>
+    <subfield code="2">rdacontent</subfield>
+  </datafield>
+  <datafield tag="337" ind1=" " ind2=" ">
+    <subfield code="a">unmediated</subfield>
+    <subfield code="2">rdamedia</subfield>
+  </datafield>
+  <datafield tag="338" ind1=" " ind2=" ">
+    <subfield code="a">volume</subfield>
+    <subfield code="2">rdacarrier</subfield>
+  </datafield>
+  <datafield tag="504" ind1=" " ind2=" ">
+    <subfield code="a">Includes bibliographical references page:[483-485].</subfield>
+  </datafield>
+  <datafield tag="534" ind1=" " ind2=" ">
+    <subfield code="p">Judul asal :</subfield>
+    <subfield code="t">How to talk to anyone :</subfield>
+    <subfield code="b">92 little tricks for big success in relationships.</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2=" ">
+    <subfield code="a">Interpersonal communication.</subfield>
+  </datafield>
+  <datafield tag="650" ind1="0" ind2=" ">
+    <subfield code="a">Body language.</subfield>
+  </datafield>
+  <datafield tag="907" ind1=" " ind2=" ">
+    <subfield code="a">.b16843101</subfield>
+    <subfield code="b">2024-08-22</subfield>
+    <subfield code="c">2020-12-21</subfield>
+  </datafield>
+  <datafield tag="942" ind1=" " ind2=" ">
+    <subfield code="c">01</subfield>
+    <subfield code="n">0</subfield>
+    <subfield code="k">HM1166 .L688154</subfield>
+  </datafield>
+  <datafield tag="949" ind1=" " ind2=" ">
+    <subfield code="o">101013045</subfield>
+  </datafield>
+  <datafield tag="949" ind1=" " ind2=" ">
+    <subfield code="o">101033102 (PRA)</subfield>
+  </datafield>
+  <datafield tag="990" ind1=" " ind2=" ">
+    <subfield code="a">nma/jm/azriq/ek</subfield>
+  </datafield>
+  <datafield tag="991" ind1=" " ind2=" ">
+    <subfield code="a">Fakulti Sains Sosial dan Kemanusiaan</subfield>
+  </datafield>
+  <datafield tag="991" ind1=" " ind2=" ">
+    <subfield code="a">Koleksi Umum, Praklinikal</subfield>
+  </datafield>
+  <datafield tag="998" ind1=" " ind2=" ">
+    <subfield code="a">t</subfield>
+    <subfield code="a">p</subfield>
+    <subfield code="b">2020-12-21</subfield>
+    <subfield code="c">m</subfield>
+    <subfield code="d">a</subfield>
+    <subfield code="f">may</subfield>
+    <subfield code="g">my</subfield>
+    <subfield code="y">0</subfield>
+    <subfield code="z">.b16843101</subfield>
+  </datafield>
+  <datafield tag="999" ind1=" " ind2=" ">
+    <subfield code="c">651654</subfield>
+    <subfield code="d">651654</subfield>
+  </datafield>
+  <datafield tag="996" ind1=" " ind2=" ">
+    <subfield code="a">ukm</subfield>
+  </datafield>
+</record>
+</collection>
